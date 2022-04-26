@@ -1,3 +1,4 @@
 # model-website
 
-Modelo de sitio web progamado en React con Readux
+Descripción: Modelo de sitio web bajo el stack MERN empleando Readux
+Tecnología: React - Readux

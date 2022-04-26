@@ -1,0 +1,23 @@
+.modal {
+    display: block !important;
+}
+.modal-footer {
+    border-top: 0px;
+}
+.modal-icon {
+    font-size: 36px !important;
+    opacity: 0.8;
+}
+
+.modal-block {
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background-color: #2196f34f;
+    position: fixed;
+    z-index: 99999;
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+}
